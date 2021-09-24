@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+![header](https://user-images.githubusercontent.com/65674658/134672411-fa4fccb7-0250-42d3-add3-b8b60668a7d8.png)
+
+
+
 <!--
 **lucasbottrel/lucasbottrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
