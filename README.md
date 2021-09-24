@@ -1,5 +1,4 @@
-![Green Hand-drawn Welcome Google Classroom Header](https://user-images.githubusercontent.com/65674658/134672513-f87afc78-de3c-4e90-bd53-17b82b1a9e56.jpg)
-
+![Green Hand-drawn Welcome Google Classroom Header](https://user-images.githubusercontent.com/65674658/134672818-ccd19fd8-7ce6-4c1d-857b-609c0eb2d71c.jpg)
 
 
 
