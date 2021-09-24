@@ -1,6 +1,5 @@
-### Hi there 👋
+![Green Hand-drawn Welcome Google Classroom Header](https://user-images.githubusercontent.com/65674658/134672513-f87afc78-de3c-4e90-bd53-17b82b1a9e56.jpg)
 
-![header](https://user-images.githubusercontent.com/65674658/134672411-fa4fccb7-0250-42d3-add3-b8b60668a7d8.png)
 
 
 
