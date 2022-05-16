@@ -16,3 +16,4 @@ My name is Lucas Bottrel, a computer science student at PUC Minas - Belo Horizon
 
 <h2> Languagens and tools </h2>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbottrel&show_icons=true&theme=dracula)
