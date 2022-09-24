@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Bottrel Lopes de Moura</h1>
 <h3 align="center">A passionate full stack developer (in progress) from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbottrel&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbottrel" /> </p>
-
 
 
 - 🔭 I’m currently working on **University**
