@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **University**
+- 🔭 I’m currently working on **University** and "Accenture Brasil"
 
-- 🌱 I’m currently learning **Web Development (Angular, React, JavaScript), Python and Network**
+- 🌱 I’m currently learning **Web Development (Angular, React, JavaScript), Python, Network and Database**
 
 - 👯 I’m looking to collaborate on **Artificial Inteligence Projects**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lucasbottrel03@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I love Ted Lasso, you should watch this**
 
 <h3 align="left">Connect with me:</h3>
   <a href="https://instagram.com/lbttlm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
