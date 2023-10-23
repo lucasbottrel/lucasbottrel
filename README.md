@@ -3,15 +3,15 @@
 
 
 
-- 🔭 I’m currently working on **University** and "Accenture Brasil"
+- 🔭 I’m currently working on "Accenture Brasil"
 
-- 🌱 I’m currently learning **Web Development (Angular, React, JavaScript), Python, Network and Database**
+- 🌱 I’m currently learning **Web Development (Angular, React, JavaScript), Python, Java, Spring, Network and Database (MySQL)**
 
-- 👯 I’m looking to collaborate on **Artificial Inteligence Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 🤝 I’m looking for help with **Network projects**
 
-- 💬 Ask me about **Angular, scrum and organization**
+- 💬 Ask me about **Angular, Scrum, Spring and Organization**
 
 - 📫 How to reach me **lucasbottrel03@gmail.com**
 
