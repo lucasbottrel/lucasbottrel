@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on "Accenture Brasil"
 
-- 🌱 I’m currently learning **Web Development (Angular, React, JavaScript), Python, Java, Spring, Network and Database (MySQL)**
+- 🌱 I’m currently learning **Web Development (Angular, React, JavaScript), Python, Java, Spring, Network and Database**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **Network projects**
+- 🤝 I’m looking for help with **AI Projects and DevOps**
 
-- 💬 Ask me about **Angular, Scrum, Spring and Organization**
+- 💬 Ask me about **React, Angular, Scrum, Spring and AI**
 
 - 📫 How to reach me **lucasbottrel03@gmail.com**
 
