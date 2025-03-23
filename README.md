@@ -2,8 +2,7 @@
 <h3 align="center">A passionate full stack developer (in progress) from Brazil</h3>
 
 
-
-- 🔭 I’m currently working on "Accenture Brasil"
+- 🔭 I’m currently working on "HST Card Technology"
 
 - 🌱 I’m currently learning **Web Development (Angular, React, JavaScript), Python, Java, Spring, Network and Database**
 
